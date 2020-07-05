@@ -1,4 +1,4 @@
 # Count_Fingers
 
 Output:
-![]finger_counting.gif
+![](finger_counting.gif)
